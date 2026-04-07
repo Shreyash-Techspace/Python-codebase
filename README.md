@@ -42,7 +42,8 @@ A structured repository showcasing my Python learning journey, including assignm
 ## 👨‍💻 Author
 
 **Shreyash Bhoir**
-Aspiring Software Developer 🚀
+
+- Second Year AIML Student | Learning Python & AI
 
 ---
 
