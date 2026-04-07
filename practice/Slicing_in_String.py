@@ -22,3 +22,10 @@ print(s1[1:12:3])
 s1_slice = s1[2:9:2]
 print(s1_slice)
 print(type(s1_slice))
+
+s1_slice = s1[2:9:5]
+print(s1_slice)
+"""
+if the end index is greater then the string length, Python doesnot give error .
+Instead, it auto. stops at the last char)
+"""
