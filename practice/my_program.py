@@ -12,3 +12,4 @@ print(max(1,2,4,6))
 print(min(1,2,4,6))
 print(abs(-19))
 print(pow(2,6))
+# test commit
