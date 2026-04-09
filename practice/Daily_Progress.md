@@ -10,4 +10,4 @@ Learned f-string in python
 
 ## 9 April 2026
 
-learned Escape Sequences
+today - Escape Sequences
