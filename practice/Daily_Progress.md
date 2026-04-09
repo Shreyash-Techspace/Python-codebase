@@ -7,3 +7,7 @@ Learned Slicing in String
 ## 8 April 2026
 
 Learned f-string in python
+
+## 9 April 2026
+
+learned Escape Sequences
