@@ -11,3 +11,7 @@ Learned f-string in python
 ## 9 April 2026
 
 today - Escape Sequences
+
+## 10 April 2026
+
+learned Operations on string 
