@@ -14,4 +14,8 @@ today - Escape Sequences
 
 ## 10 April 2026
 
-learned Operations on string 
+learned Operations on string
+
+## 11 April 2026
+
+Continued to Operations on strings part 2 
