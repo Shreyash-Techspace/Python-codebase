@@ -8,4 +8,4 @@ Problem Statement: Write a Python program that:
 fname=str(input("Enter your first name: "))
 lname=str(input("Enter your last name: "))
 flname=fname+" "+lname
-print("Hello, " ,flname +"! Welcome to Python Programming.")
+print(f"Hello, {flname}! Welcome to Python Programming.")
