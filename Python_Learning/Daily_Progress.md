@@ -19,3 +19,11 @@ learned Operations on string
 ## 11 April 2026
 
 Continued to Operations on strings part 2 
+
+# BREAK DUE TO ACADEMICS
+
+## 19 May 2026
+
+learned List and some operations on lists
+
+

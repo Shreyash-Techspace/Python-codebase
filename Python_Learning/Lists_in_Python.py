@@ -14,7 +14,7 @@ print(student)
 
 days_of_week = ["Mon", "Tue", "Wed", "Thur", "Fri", "Sat", "Sun"]
 # +ve INDEXING    0     1       2      3       4      5      6
-# -ve INDEXING   -7    -6       -5      -4     -3     -2   -1
+# -ve INDEXING   -7    -6      -5     -4      -3     -2     -1
 print(days_of_week[0])
 print(days_of_week[5])
 print(len(days_of_week))

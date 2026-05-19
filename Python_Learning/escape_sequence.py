@@ -16,7 +16,7 @@ print("Hello Everyone.\nI'm Shreyash Bhagwan Bhoir.\nWelcome to my Github Shreya
 print("Second Year\tAIML")
 
 # \\
-print("Are you interested to explore the world of Technology with me ? yes//no")
+print("Are you interested to explore the world of Technology with me ? yes\\no")
 
 # \'
 print('This is my Python\'s Course.')
