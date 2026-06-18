@@ -43,7 +43,7 @@ A structured repository showcasing my Python learning journey, including assignm
 
 **Shreyash Bhoir**
 
-- Second Year AIML Student | Learning Python & AI
+- Third Year AIML Student (T.Tech-AIML) | Learning Python & AI
 
 ---
 
