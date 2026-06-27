@@ -14,18 +14,18 @@ else:
     # Executed if all above conditions evaluate to False
     fallback_statement_block
 """
-
+name = str(input("Enter your name: "))
 marks = float(input("Enter your marks: "))
 
 if marks >= 90:
-    print("Grade: A")
+    print(f"{name}, you got Grade: A")
 elif 80 <= marks < 90:  # marks >= 80 and marks < 90:
-    print("Grade: B")
+    print(f"{name}, you got Grade: B")
 elif 70 <= marks < 80:  # marks >= 70 and marks < 80:
-    print("Grade: C")
+    print(f"{name}, you got Grade: C")
 elif 60 <= marks < 70:  # marks >= 60 and marks < 70:
-    print("Grade: D")
+    print(f"{name}, you got Grade: D")
 elif 50 <= marks < 60:  # marks >= 50 and marks < 60:
-    print("Grade: E")
+    print(f"{name}, you got Grade: E")
 else:
-    print("Grade: F")
+    print(f"{name}, you got Grade: F")
