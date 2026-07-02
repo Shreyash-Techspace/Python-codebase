@@ -17,3 +17,4 @@ percentage = [88.7, 90.5, 96.7, 85]
 
 for item in percentage:
     print(item)
+    print(percentage)
