@@ -5,7 +5,7 @@ countries = ["India", "United States", "Australia", "Ireland", "Sri Lanka", "Ice
 counter = 0
 output = []
 for country in countries:
-    if country[0] == "I":
+    if country[0] == "N":
         counter += 1
         output.append(country)
 
