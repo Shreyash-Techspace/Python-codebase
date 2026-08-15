@@ -1,3 +1,7 @@
 This file is created using w mode in Python.
 This is the first line.
 This is the second line.
+
+This content has been written using 'a' mode.
+'a' mode is used to add new content at the end of the file.
+Good bye!
