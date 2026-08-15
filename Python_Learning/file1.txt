@@ -1,2 +1,3 @@
-This file is created using the 'x' mode in Python.
-Next line.
+This file is created using w mode in Python.
+This is the first line.
+This is the second line.
